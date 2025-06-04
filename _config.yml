@@ -1,0 +1,23 @@
+title: itd0shi3ld
+tagline: Blog de Ciberseguridad y HTB Writeups
+description: >-
+  Mi espacio personal para compartir aprendizajes, retos y máquinas resueltas.
+url: "https://itd0shi3ld.github.io"
+baseurl: ""
+lang: es
+theme: jekyll-theme-chirpy
+
+avatar: /assets/img/avatar.jpg
+
+social:
+  name: itd0shi3ld
+  email: itd0developer@pm.me
+  links:
+    - https://github.com/itd0shi3ld
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+theme_mode: dark
